@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER2\\ProjetoTeste ER2\\ProjetoTeste\\xUnitTest\\xUnitTest.csproj": {}
+  },
+  "projects": {
+    "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER2\\ProjetoTeste ER2\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER2\\ProjetoTeste ER2\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj",
+        "projectName": "ProjetoTeste",
+        "projectPath": "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER2\\ProjetoTeste ER2\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj",
+        "packagesPath": "C:\\Users\\Xerno\\.nuget\\packages\\",
+        "outputPath": "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER2\\ProjetoTeste ER2\\ProjetoTeste\\ProjetoTeste\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Xerno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER2\\ProjetoTeste ER2\\ProjetoTeste\\xUnitTest\\xUnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER2\\ProjetoTeste ER2\\ProjetoTeste\\xUnitTest\\xUnitTest.csproj",
+        "projectName": "xUnitTest",
+        "projectPath": "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER2\\ProjetoTeste ER2\\ProjetoTeste\\xUnitTest\\xUnitTest.csproj",
+        "packagesPath": "C:\\Users\\Xerno\\.nuget\\packages\\",
+        "outputPath": "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER2\\ProjetoTeste ER2\\ProjetoTeste\\xUnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Xerno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER2\\ProjetoTeste ER2\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj": {
+                "projectPath": "E:\\Xerno\\ESTUDOS\\Curso\\UC12_ER2\\ProjetoTeste ER2\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

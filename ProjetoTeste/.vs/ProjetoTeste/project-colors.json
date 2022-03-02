@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6aa26010-ee07-40ec-8174-c30295580be7": {
+      "ProjectGuid": "6aa26010-ee07-40ec-8174-c30295580be7",
+      "DisplayName": "ProjetoTeste",
+      "ColorIndex": 0
+    },
+    "2435fa50-2349-4da0-a40d-0e609bb8afa5": {
+      "ProjectGuid": "2435fa50-2349-4da0-a40d-0e609bb8afa5",
+      "DisplayName": "MSTest",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "37ecd914-87f7-4dff-8fd7-fcd2dced286c": {
+      "ProjectGuid": "37ecd914-87f7-4dff-8fd7-fcd2dced286c",
+      "DisplayName": "xUnitTest",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
